@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bienvenida">Benvingut a Léeme Esta</string>
+    <string name="nombre">Nom</string>
+    <string name="correo">Correu</string>
+    <string name="contraseña">Contrasenya</string>
+    <string name="registro">Registrar</string>
+    <string name="acceder">Accedir</string>
+    <string name="mensaje">Escriu el teu missatge...</string>
+    <string name="passerr1">Ha de tenir més de 6 dígits</string>
+    <string name="passerr2">Insereixi una contrasenya vàlida</string>
+    <string name="mailerr1">Email invàlid</string>
+    <string name="mailerr2">Email en us</string>
+    <string name="mailpasserr">Email o contrasenya incorrectes</string>
+    <string name="mailerr3">Email no registrat</string>
+    <string name="insertenombre">Insereixi un nom</string>
+    <string name="insertemail">Insereixi un email</string>
+</resources>

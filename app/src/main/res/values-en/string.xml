@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bienvenida">Welcome to Léeme Esta</string>
+    <string name="nombre">Name</string>
+    <string name="correo">Mail</string>
+    <string name="contraseña">Password</string>
+    <string name="registro">Sign in</string>
+    <string name="acceder">Log nn</string>
+    <string name="mensaje">Write your message...</string>
+    <string name="passerr1">It has to be more than 6 characters</string>
+    <string name="passerr2">Insert a valid password</string>
+    <string name="mailerr1">Invalid email</string>
+    <string name="mailerr2">Email in use</string>
+    <string name="mailpasserr">Wrong email or password</string>
+    <string name="mailerr3">Email not registered</string>
+    <string name="insertenombre">Insert a name</string>
+    <string name="insertemail">Insert an email</string>
+</resources>

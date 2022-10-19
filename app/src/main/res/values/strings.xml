@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Léeme Esta</string>
+    <string name="bienvenida">Bienvenido a Léeme Esta</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="registro">Registrar</string>
+    <string name="acceder">Acceder</string>
+    <string name="mensaje">Escribe tu mensaje...</string>
+    <string name="passerr1">Tiene que tener más de 6 dígitos</string>
+    <string name="passerr2">Inserte una contraseña válida</string>
+    <string name="mailerr1">Email inválido</string>
+    <string name="mailerr2">Email en uso</string>
+    <string name="mailerr3">Email no registrado</string>
+    <string name="mailpasserr">Email o contraseña incorrectos</string>
+    <string name="insertenombre">Inserte un nombre</string>
+    <string name="insertemail">Inserte un email</string>
+</resources>

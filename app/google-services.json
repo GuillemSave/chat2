@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "538843095741",
+    "firebase_url": "https://chat-b1b1d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chat-b1b1d",
+    "storage_bucket": "chat-b1b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538843095741:android:9c9a93115f56f7639b4dd4",
+        "android_client_info": {
+          "package_name": "org.insbaixcamp.chatprueba1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538843095741-d429gr8i7gqhjd1iulfe390hpuhhou44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfv-y-4CEQkxCsMEDkFtR6dcLzqi807ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538843095741-d429gr8i7gqhjd1iulfe390hpuhhou44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538843095741:android:dae956a80845baaf9b4dd4",
+        "android_client_info": {
+          "package_name": "org.insbaixcamp.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538843095741-d429gr8i7gqhjd1iulfe390hpuhhou44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfv-y-4CEQkxCsMEDkFtR6dcLzqi807ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538843095741-d429gr8i7gqhjd1iulfe390hpuhhou44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
